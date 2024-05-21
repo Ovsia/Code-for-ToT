@@ -393,21 +393,3 @@ the avoidance of doubt, this paragraph does not form part of the public
 licenses.
 
 Creative Commons may be contacted at creativecommons.org.
-
-Copy license text to clipboard
-Suggest this license
-
-Make a pull request to suggest this license for a project that is not licensed. Please be polite: see if a license has already been suggested, try to suggest a license fitting for the project’s community, and keep your communication with project maintainers friendly.
-How to apply this license
-
-Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. It is also acceptable to solely supply a link to a copy of the license, usually to the canonical URL for the license.
-Optional steps
-
-Add CC-BY-4.0 to your project’s package description, if applicable (e.g., Node.js, Ruby, and Rust). This will ensure the license is displayed in package directories.
-Source
-Who’s using this license?
-
-    caniuse
-    FiveThirtyEight data
-    Kubernetes documentation
-
